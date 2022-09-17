@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>screenshot.jpeg</name>
-			<type>1</type>
-			<location>C:/Users/rubyl/eclipse-workspace/Lab1/README.md</location>
-		</link>
-	</linkedResources>
 </projectDescription>
